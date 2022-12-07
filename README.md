@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leonardobove
 - 👀 I’m interested in ...  Literally everything
-- 🌱 I’m currently learning ... Android Studio, Flutter, Java, Python
+- 🌱 I’m currently learning ... C, Python, ASM
 - 📫 How to reach me ... e-mail me at leonardo.bove01@gmail.com
 
 <!---
